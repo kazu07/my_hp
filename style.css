@@ -38,6 +38,13 @@ section {
     padding: 20px;
 }
 
+.block {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
 h2 {
     margin-bottom: 10px;
 }
@@ -49,3 +56,4 @@ ul {
 ul li {
     margin-bottom: 5px;
 }
+
